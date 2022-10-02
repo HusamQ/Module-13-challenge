@@ -3,10 +3,14 @@
  ![Tectonic Plates](https://github.com/HusamQ/Module-13-challenge/blob/9a9c1accce0d08e2eb1cc447cb206ee4b2c83aec/Images/tectonic%20plate.PNG)
  
  ![Tectonic Plates and earthquake] (https://github.com/HusamQ/Module-13-challenge/blob/9a9c1accce0d08e2eb1cc447cb206ee4b2c83aec/Images/tectonic%20plates.PNG)
+ 
  # Major Earthquake for 4.5 and above magnitude
+ 
  ![Major Earthquake] (https://github.com/HusamQ/Module-13-challenge/blob/9a9c1accce0d08e2eb1cc447cb206ee4b2c83aec/Images/major%20earthquake.PNG)
  
+ 
  ![Earthquake and tectonic] (https://github.com/HusamQ/Module-13-challenge/blob/9a9c1accce0d08e2eb1cc447cb206ee4b2c83aec/Images/earthquakeandTectonic.PNG)
+ 
  
  ![Darkview] (https://github.com/HusamQ/Module-13-challenge/blob/9a9c1accce0d08e2eb1cc447cb206ee4b2c83aec/Images/Satellite.PNG)
  
